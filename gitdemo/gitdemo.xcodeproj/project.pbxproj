@@ -15,6 +15,7 @@
 		162FB8451D6330030053ED05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162FB8441D6330030053ED05 /* Assets.xcassets */; };
 		162FB8481D6330030053ED05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162FB8461D6330030053ED05 /* LaunchScreen.storyboard */; };
 		162FB8511D6337400053ED05 /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 162FB8501D6337400053ED05 /* TestClass.m */; };
+		168E4EA11D644BBF0017D981 /* ModeDataInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 168E4EA01D644BBF0017D981 /* ModeDataInfo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		162FB8491D6330030053ED05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		162FB84F1D6337400053ED05 /* TestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass.h; sourceTree = "<group>"; };
 		162FB8501D6337400053ED05 /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
+		168E4E9F1D644BBF0017D981 /* ModeDataInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModeDataInfo.h; sourceTree = "<group>"; };
+		168E4EA01D644BBF0017D981 /* ModeDataInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModeDataInfo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +78,8 @@
 				162FB8351D6330030053ED05 /* Supporting Files */,
 				162FB84F1D6337400053ED05 /* TestClass.h */,
 				162FB8501D6337400053ED05 /* TestClass.m */,
+				168E4E9F1D644BBF0017D981 /* ModeDataInfo.h */,
+				168E4EA01D644BBF0017D981 /* ModeDataInfo.m */,
 			);
 			path = gitdemo;
 			sourceTree = "<group>";
@@ -161,6 +166,7 @@
 				162FB83D1D6330030053ED05 /* ViewController.m in Sources */,
 				162FB8431D6330030053ED05 /* gitdemo.xcdatamodeld in Sources */,
 				162FB83A1D6330030053ED05 /* AppDelegate.m in Sources */,
+				168E4EA11D644BBF0017D981 /* ModeDataInfo.m in Sources */,
 				162FB8371D6330030053ED05 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
