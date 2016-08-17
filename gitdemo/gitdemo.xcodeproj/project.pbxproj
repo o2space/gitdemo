@@ -15,7 +15,6 @@
 		162FB8451D6330030053ED05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162FB8441D6330030053ED05 /* Assets.xcassets */; };
 		162FB8481D6330030053ED05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162FB8461D6330030053ED05 /* LaunchScreen.storyboard */; };
 		162FB8511D6337400053ED05 /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 162FB8501D6337400053ED05 /* TestClass.m */; };
-		168E4E9E1D641EB90017D981 /* TestDemoClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 168E4E9D1D641EB90017D981 /* TestDemoClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +31,6 @@
 		162FB8491D6330030053ED05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		162FB84F1D6337400053ED05 /* TestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass.h; sourceTree = "<group>"; };
 		162FB8501D6337400053ED05 /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
-		168E4E9C1D641EB90017D981 /* TestDemoClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestDemoClass.h; sourceTree = "<group>"; };
-		168E4E9D1D641EB90017D981 /* TestDemoClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestDemoClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +75,6 @@
 				162FB8351D6330030053ED05 /* Supporting Files */,
 				162FB84F1D6337400053ED05 /* TestClass.h */,
 				162FB8501D6337400053ED05 /* TestClass.m */,
-				168E4E9C1D641EB90017D981 /* TestDemoClass.h */,
-				168E4E9D1D641EB90017D981 /* TestDemoClass.m */,
 			);
 			path = gitdemo;
 			sourceTree = "<group>";
@@ -167,7 +162,6 @@
 				162FB8431D6330030053ED05 /* gitdemo.xcdatamodeld in Sources */,
 				162FB83A1D6330030053ED05 /* AppDelegate.m in Sources */,
 				162FB8371D6330030053ED05 /* main.m in Sources */,
-				168E4E9E1D641EB90017D981 /* TestDemoClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
